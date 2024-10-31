@@ -1,0 +1,30 @@
+
+.desingdisplay{
+    background-color: rgb(252, 252, 252);
+    width: 280px;
+    height: 60px;
+    margin-top: 10px;
+    font-size: 30px;
+}
+.btncar{
+    
+    width: 50px;
+    height: 58px; 
+}
+.btnnum{ 
+    padding: 20px;   
+}
+.btnesp1{
+    width: 103px;
+    height: 58px; 
+}
+.btnesp2{
+    width: 110px;
+    height: 58px;
+    margin-left:73px;
+}
+#fondo{
+    background-color: rgb(61, 58, 58);
+    display:inline-block;
+    padding: 10px;
+}
